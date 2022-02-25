@@ -1,3 +1,3 @@
 # Airflow-ETL-Example
-This repository contains 2 DAGS for working with databases.
-Select, insert operations.
+This repository contains 2 DAGs for working with databases.
+Select, create table, insert operations.
