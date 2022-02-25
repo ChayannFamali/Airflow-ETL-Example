@@ -1,2 +1,3 @@
 # Airflow-ETL-Example
- This repository contains 2 dogs for working with databases.
+This repository contains 2 DAGS for working with databases.
+Select, insert operations.
